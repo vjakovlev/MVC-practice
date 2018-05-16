@@ -1,0 +1,27 @@
+﻿#mainContainer {
+    display: flex;
+    align-items: flex-start;
+}
+
+#left {
+    margin-top: 25px;
+    margin-right: 50px;
+}
+
+#left ul {
+    list-style-type: none;
+}
+
+#left li {
+    width: 70px;
+}
+
+#mid {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+}
+
+#mid div {
+    margin-right: 10px;
+}

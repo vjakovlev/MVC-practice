@@ -1,0 +1,42 @@
+﻿@using MVC_Practice.Models
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Welcome to the cars page!</h2>
+
+<hr />
+
+<div id="mainContainer">
+   
+    <aside id="left">
+        <p><strong>Available Cars</strong></p>
+        <ul>
+            @foreach (var navList in @ViewBag.ProductList)
+            {
+                <li><a href="/Products/ShowCarDetails/@navList.ID">@navList.Name</a></li>
+            }   
+        </ul>
+    </aside>
+
+    <main id="mid">
+        <div>
+            <h1>Polo</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tempus bibendum efficitur. Nam vulputate bibendum velit, quis consequat ante pretium quis. Donec lacinia ornare cursus. Suspendisse in eleifend nisi, sed ultricies nunc. Nullam vulputate, magna quis tristique convallis, nulla turpis mollis augue, ac tempus quam mauris eget quam. Aliquam maximus libero quis sem fringilla, quis sodales massa aliquam. Aliquam et quam mollis, facilisis orci at, euismod orci. Pellentesque feugiat porttitor orci id euismod. Nam bibendum sed tortor sit amet interdum. Vivamus condimentum mi sed nulla dapibus ullamcorper. Quisque aliquet justo enim, id hendrerit purus vulputate in. Morbi ex nisi, porttitor non nibh vitae, vulputate luctus justo. Aenean faucibus augue vitae tortor varius, faucibus tempor odio commodo. Donec et lacus auctor, dictum leo sed, laoreet mauris.</p>
+        </div>
+        <div>
+            <h1>Golf</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tempus bibendum efficitur. Nam vulputate bibendum velit, quis consequat ante pretium quis. Donec lacinia ornare cursus. Suspendisse in eleifend nisi, sed ultricies nunc. Nullam vulputate, magna quis tristique convallis, nulla turpis mollis augue, ac tempus quam mauris eget quam. Aliquam maximus libero quis sem fringilla, quis sodales massa aliquam. Aliquam et quam mollis, facilisis orci at, euismod orci. Pellentesque feugiat porttitor orci id euismod. Nam bibendum sed tortor sit amet interdum. Vivamus condimentum mi sed nulla dapibus ullamcorper. Quisque aliquet justo enim, id hendrerit purus vulputate in. Morbi ex nisi, porttitor non nibh vitae, vulputate luctus justo. Aenean faucibus augue vitae tortor varius, faucibus tempor odio commodo. Donec et lacus auctor, dictum leo sed, laoreet mauris.</p>
+        </div>
+        <div>
+            <h1>Passat</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tempus bibendum efficitur. Nam vulputate bibendum velit, quis consequat ante pretium quis. Donec lacinia ornare cursus. Suspendisse in eleifend nisi, sed ultricies nunc. Nullam vulputate, magna quis tristique convallis, nulla turpis mollis augue, ac tempus quam mauris eget quam. Aliquam maximus libero quis sem fringilla, quis sodales massa aliquam. Aliquam et quam mollis, facilisis orci at, euismod orci. Pellentesque feugiat porttitor orci id euismod. Nam bibendum sed tortor sit amet interdum. Vivamus condimentum mi sed nulla dapibus ullamcorper. Quisque aliquet justo enim, id hendrerit purus vulputate in. Morbi ex nisi, porttitor non nibh vitae, vulputate luctus justo. Aenean faucibus augue vitae tortor varius, faucibus tempor odio commodo. Donec et lacus auctor, dictum leo sed, laoreet mauris.</p>
+        </div>
+        <div>
+            <h1>Touareg</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tempus bibendum efficitur. Nam vulputate bibendum velit, quis consequat ante pretium quis. Donec lacinia ornare cursus. Suspendisse in eleifend nisi, sed ultricies nunc. Nullam vulputate, magna quis tristique convallis, nulla turpis mollis augue, ac tempus quam mauris eget quam. Aliquam maximus libero quis sem fringilla, quis sodales massa aliquam. Aliquam et quam mollis, facilisis orci at, euismod orci. Pellentesque feugiat porttitor orci id euismod. Nam bibendum sed tortor sit amet interdum. Vivamus condimentum mi sed nulla dapibus ullamcorper. Quisque aliquet justo enim, id hendrerit purus vulputate in. Morbi ex nisi, porttitor non nibh vitae, vulputate luctus justo. Aenean faucibus augue vitae tortor varius, faucibus tempor odio commodo. Donec et lacus auctor, dictum leo sed, laoreet mauris.</p>
+        </div>
+    </main>
+</div>
+

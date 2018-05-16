@@ -1,0 +1,91 @@
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\ApplicationInsights.config
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\MVC Practice.dll.config
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\MVC Practice.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\MVC Practice.pdb
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\csc.exe
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\csc.exe.config
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\csc.rsp
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\csi.exe
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\csi.exe.config
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\csi.rsp
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\System.AppContext.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\System.Console.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\System.IO.Compression.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\System.IO.Pipes.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\System.Security.Claims.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\System.Threading.Thread.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\System.ValueTuple.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\System.Xml.XPath.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\vbc.exe
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\vbc.exe.config
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\vbc.rsp
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\VBCSCompiler.exe
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\Antlr3.Runtime.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\Microsoft.AI.Web.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\Microsoft.ApplicationInsights.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\Newtonsoft.Json.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\System.Web.Helpers.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\System.Web.Mvc.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\System.Web.Optimization.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\System.Web.Razor.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\System.Web.WebPages.Deployment.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\System.Web.WebPages.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\System.Web.WebPages.Razor.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\WebGrease.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\System.Web.Helpers.xml
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\System.Web.Mvc.xml
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\System.Web.Optimization.xml
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\System.Web.Razor.xml
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\System.Web.WebPages.xml
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\System.Web.WebPages.Deployment.xml
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\System.Web.WebPages.Razor.xml
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\Antlr3.Runtime.pdb
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\Newtonsoft.Json.xml
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\Microsoft.ApplicationInsights.xml
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\bin\Microsoft.AI.Web.xml
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\obj\Debug\MVC Practice.csprojResolveAssemblyReference.cache
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\obj\Debug\MVC Practice.csproj.CoreCompileInputs.cache
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\obj\Debug\MVC Practice.csproj.CopyComplete
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\obj\Debug\MVC Practice.dll
+C:\Users\viceb\Desktop\MVC Practice\MVC Practice\obj\Debug\MVC Practice.pdb

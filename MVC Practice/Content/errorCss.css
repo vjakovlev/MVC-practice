@@ -1,0 +1,8 @@
+﻿#errorDiv {
+    display: flex;
+    justify-content: center;
+}
+
+#errorOne {
+    margin-top: 30px;
+}
